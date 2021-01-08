@@ -1,0 +1,112 @@
+C:\Users\Ivan\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.exe.config
+C:\Users\Ivan\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.exe
+C:\Users\Ivan\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.pdb
+C:\Users\Ivan\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Form1.resources
+C:\Users\Ivan\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Properties.Resources.resources
+C:\Users\Ivan\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.exe
+C:\Users\Ivan\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.pdb
+X:\faks zadnje\BlagajnaV2\bin\Debug\BlagajnaV2.exe.config
+X:\faks zadnje\BlagajnaV2\bin\Debug\BlagajnaV2.exe
+X:\faks zadnje\BlagajnaV2\bin\Debug\BlagajnaV2.pdb
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.csprojAssemblyReference.cache
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.Glavna.resources
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.Properties.Resources.resources
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.csproj.GenerateResource.cache
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.csproj.CoreCompileInputs.cache
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.exe
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.pdb
+X:\faks zadnje\BlagajnaV2\bin\Debug\Blagajna-Cvitan.accdb
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.Proizvodac.resources
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.Zaposlenici.resources
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.Pice.resources
+X:\faks zadnje\BlagajnaV2\obj\Debug\BlagajnaV2.Racun.resources
+G:\BlagajnaV2\bin\Debug\Blagajna-Cvitan.accdb
+G:\BlagajnaV2\bin\Debug\BlagajnaV2.exe.config
+G:\BlagajnaV2\bin\Debug\BlagajnaV2.exe
+G:\BlagajnaV2\bin\Debug\BlagajnaV2.pdb
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.csprojAssemblyReference.cache
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.Glavna.resources
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.Pice.resources
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.Proizvodac.resources
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.Properties.Resources.resources
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.Racun.resources
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.Zaposlenici.resources
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.csproj.GenerateResource.cache
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.csproj.CoreCompileInputs.cache
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.exe
+G:\BlagajnaV2\obj\Debug\BlagajnaV2.pdb
+C:\Users\Patrik\Desktop\BlagajnaV2\bin\Debug\Blagajna-Cvitan.accdb
+C:\Users\Patrik\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.exe.config
+C:\Users\Patrik\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.exe
+C:\Users\Patrik\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.pdb
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Glavna.resources
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Pice.resources
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Proizvodac.resources
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Properties.Resources.resources
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Racun.resources
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Zaposlenici.resources
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.csproj.GenerateResource.cache
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.exe
+C:\Users\Patrik\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.pdb
+C:\Users\G & I\Desktop\BlagajnaV2\bin\Debug\Blagajna-Cvitan.accdb
+C:\Users\G & I\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.exe.config
+C:\Users\G & I\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.exe
+C:\Users\G & I\Desktop\BlagajnaV2\bin\Debug\BlagajnaV2.pdb
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.csprojAssemblyReference.cache
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Glavna.resources
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Pice.resources
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Proizvodac.resources
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Properties.Resources.resources
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Racun.resources
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.Zaposlenici.resources
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.csproj.GenerateResource.cache
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.exe
+C:\Users\G & I\Desktop\BlagajnaV2\obj\Debug\BlagajnaV2.pdb
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\bin\Debug\Blagajna-Cvitan.accdb
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\bin\Debug\BlagajnaV2.exe.config
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\bin\Debug\BlagajnaV2.exe
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\bin\Debug\BlagajnaV2.pdb
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.csprojAssemblyReference.cache
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.Glavna.resources
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.Pice.resources
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.Proizvodac.resources
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.Properties.Resources.resources
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.Racun.resources
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.Zaposlenici.resources
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.csproj.GenerateResource.cache
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.csproj.CoreCompileInputs.cache
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.exe
+X:\SVE VAZNO ZA 1 KOL MOBILNE\BlagajnaV2.1\obj\Debug\BlagajnaV2.pdb
+C:\Users\G & I\Desktop\Ivan Cvitan C#\bin\Debug\Blagajna-Cvitan.accdb
+C:\Users\G & I\Desktop\Ivan Cvitan C#\bin\Debug\BlagajnaV2.exe.config
+C:\Users\G & I\Desktop\Ivan Cvitan C#\bin\Debug\BlagajnaV2.exe
+C:\Users\G & I\Desktop\Ivan Cvitan C#\bin\Debug\BlagajnaV2.pdb
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.csprojAssemblyReference.cache
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Glavna.resources
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Pice.resources
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Proizvodac.resources
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Properties.Resources.resources
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Racun.resources
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Zaposlenici.resources
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.csproj.GenerateResource.cache
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.exe
+C:\Users\G & I\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.pdb
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\bin\Debug\Blagajna-Cvitan.accdb
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\bin\Debug\BlagajnaV2.exe.config
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\bin\Debug\BlagajnaV2.exe
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\bin\Debug\BlagajnaV2.pdb
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Glavna.resources
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Pice.resources
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Proizvodac.resources
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Properties.Resources.resources
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Racun.resources
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.Zaposlenici.resources
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.exe
+C:\Users\Ivan\Desktop\Ivan Cvitan C#\obj\Debug\BlagajnaV2.pdb
